@@ -15,7 +15,7 @@ __🟢Beginner Level__
 ~~07:38 Introduction to SQL~~  
 ~~22:33 Setup Your Environment~~  
 ~~34:01 Query Data (SELECT)~~  
-01:32:31 DDL Commands  
+~~01:32:31 DDL Commands~~  
 01:43:44 DML Commands  
 
 __🟡Intermediate Level__  
