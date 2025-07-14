@@ -19,7 +19,7 @@ __🟢Beginner Level__
 ~~01:43:44 DML Commands~~  
 
 __🟡Intermediate Level__  
-02:08:03 Filtering Data  
+~~02:08:03 Filtering Data~~  
 02:47:57 SQL Joins (Basics)  
 03:27:29 SQL Joins (Advanced)  
 04:02:09 Set Operators  
