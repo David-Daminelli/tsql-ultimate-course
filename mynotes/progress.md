@@ -16,7 +16,7 @@ __🟢Beginner Level__
 ~~22:33 Setup Your Environment~~  
 ~~34:01 Query Data (SELECT)~~  
 ~~01:32:31 DDL Commands~~  
-01:43:44 DML Commands  
+~~01:43:44 DML Commands~~  
 
 __🟡Intermediate Level__  
 02:08:03 Filtering Data  
