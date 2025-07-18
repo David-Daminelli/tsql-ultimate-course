@@ -6,6 +6,10 @@ SQL Course materials
 
 https://www.datawithbaraa.com/sql-introduction/sql-ultimate-course
 
+Video Link
+
+https://youtu.be/SSKVgrwhzus?si=n2c0gUp1eoBE_qsg
+
 Progress:
 
 📖 Table of Content
