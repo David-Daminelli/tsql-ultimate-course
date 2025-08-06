@@ -27,10 +27,10 @@ __🟡Intermediate Level__
 ~~02:47:57 SQL Joins (Basics)~~  
 ~~03:27:29 SQL Joins (Advanced)~~  
 ~~04:02:09 Set Operators~~  
-04:47:41 SQL Functions  
-04:52:58 String Functions  
-05:18:44 Numeric Functions  
-05:22:48 Date and Time Functions  
+~~04:47:41 SQL Functions~~  
+~~04:52:58 String Functions~~  
+~~05:18:44 Numeric Functions~~  
+~~05:22:48 Date and Time Functions~~  
 06:59:06 NULL Functions  
 08:07:50 Case Statement  
 08:43:36 Aggregate Functions  
