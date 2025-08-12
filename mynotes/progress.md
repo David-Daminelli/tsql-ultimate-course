@@ -31,7 +31,7 @@ __🟡Intermediate Level__
 ~~04:52:58 String Functions~~  
 ~~05:18:44 Numeric Functions~~  
 ~~05:22:48 Date and Time Functions~~  
-06:59:06 NULL Functions  
+~~06:59:06 NULL Functions~~  
 08:07:50 Case Statement  
 08:43:36 Aggregate Functions  
 08:50:11 Window Functions Basics  
