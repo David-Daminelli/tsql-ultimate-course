@@ -32,11 +32,11 @@ __🟡Intermediate Level__
 ~~05:18:44 Numeric Functions~~  
 ~~05:22:48 Date and Time Functions~~  
 ~~06:59:06 NULL Functions~~  
-08:07:50 Case Statement  
-08:43:36 Aggregate Functions  
-08:50:11 Window Functions Basics  
-09:47:00 Window Aggregate  
-10:53:09 Window Ranking  
+~~08:07:50 Case Statement~~  
+~~08:43:36 Aggregate Functions~~  
+~~08:50:11 Window Functions Basics~~  
+~~09:47:00 Window Aggregate~~  
+~~10:53:09 Window Ranking~~  
 11:56:05 Window Value  
 
 __🔴Advanced Level__  
