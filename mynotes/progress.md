@@ -37,10 +37,10 @@ __🟡Intermediate Level__
 ~~08:50:11 Window Functions Basics~~  
 ~~09:47:00 Window Aggregate~~  
 ~~10:53:09 Window Ranking~~  
-11:56:05 Window Value  
+~~11:56:05 Window Value~~  
 
 __🔴Advanced Level__  
-12:40:34 Advanced SQL Techniques  
+~~12:40:34 Advanced SQL Techniques~~  
 12:58:04 Subqueries  
 14:18:08 Common Table Expressions (CTE)  
 15:35:02 Views  
